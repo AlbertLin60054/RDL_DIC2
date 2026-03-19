@@ -1,5 +1,7 @@
 # 強化學習進階作業 (RL Advanced HW - DIC2)
 
+🚀 **Live Demo 線上展示:** [https://AlbertLin60054.github.io/RDL_DIC2/](https://AlbertLin60054.github.io/RDL_DIC2/)
+
 本專案使用純前端 HTML/JavaScript 實作了一個強化的網格地圖開發與 **價值迭代 (Value Iteration)** 演算法展示。這是一份將所有演算法邏輯皆於瀏覽器靜態執行的單頁應用程式，無須依賴任何後端伺服器環境。
 
 ## 專案結構
